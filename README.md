@@ -1,14 +1,16 @@
 # Essential Solar and Energy Storage Software Resources
-[<img src="https://user-images.githubusercontent.com/108336007/191111414-22b1d5b4-38f8-4992-bc7b-fbdcb82ec423.jpg" align="right" width="350">]
+<img src="https://user-images.githubusercontent.com/108336007/191120116-46742bfd-bbbb-4f7f-b112-a46711b27e0e.jpg" align="right" width="450">
 
 Curated lists of APIs, SDKs, paltforms, tools, datasets and academic refrences relevant to solar energy and energy storage software. Categories include: Design & engineering, Finance, Monitoring & Billing, Project Management, Automated Paperwork, etc.
 
 The ultimate goal of this open source project is for software engineers in the industry and academia to share resources for the benefit of all.
 
+此处整理光伏和储能相关的软件及工具，便于大家进行研究学习。
+
 # APIs and SDKs: System Design & Enegineering 
 
-- [PV Watts](https://developer.nrel.gov/docs/solar/pvwatts-v5/)
-- [System Advisor Model SDK](https://sam.nrel.gov/)
+- [PV Watts](https://developer.nrel.gov/docs/solar/pvwatts-v5/) 
+- [System Advisor Model SDK](https://sam.nrel.gov/) 
 - [MapRE](https://mapre.es.ucsb.edu/project/southern-africa-zones/)
 
 # Platforms and Tools: Design & Enegineering
