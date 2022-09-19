@@ -1,7 +1,7 @@
 # Essential Solar and Energy Storage Software Resources
+[<img src="https://user-images.githubusercontent.com/108336007/191111414-22b1d5b4-38f8-4992-bc7b-fbdcb82ec423.jpg" align="right" width="350">]
 
 Curated lists of APIs, SDKs, paltforms, tools, datasets and academic refrences relevant to solar energy and energy storage software. Categories include: Design & engineering, Finance, Monitoring & Billing, Project Management, Automated Paperwork, etc.
-[<img src="https://en.wikipedia.org/wiki/Solar_energy#/media/File:Saul%C4%97s_elektrin%C4%97.jpg" align="right" width="350">]
 
 The ultimate goal of this open source project is for software engineers in the industry and academia to share resources for the benefit of all.
 
