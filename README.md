@@ -8,6 +8,7 @@ The ultimate goal of this open source project is for software engineers in the i
 
 - [PV Watts](https://developer.nrel.gov/docs/solar/pvwatts-v5/)
 - [System Advisor Model SDK](https://sam.nrel.gov/)
+- [MapRE](https://mapre.es.ucsb.edu/project/southern-africa-zones/)
 
 # Platforms and Tools: Design & Enegineering
 
